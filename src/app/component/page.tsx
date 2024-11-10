@@ -1,7 +1,6 @@
 
 import Link from "next/link"
 import Image from "next/image"
-import Aboutus from "../about/page"
 
 
 export default function Header(){
